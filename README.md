@@ -1,2 +1,4 @@
-# Elegant-EmeraldG
-This is an inventory management analysis  using SQL,,TABLEAU AND POWER BI
+## Elegant-EmeraldG
+
+## Introduction
+This is an analysis of Yusen logistics………………(insert image)……… 
